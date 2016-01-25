@@ -2,7 +2,7 @@
 
 This repository contains my solution for some common algorithms. These algorithms will be implemented in Java, Python and C. Every solution will be tested before being pushed and will add more solutions to it when i have more time.
 
-#### Desirable Algorithm Characteristics
+## Desirable Algorithm Characteristics
 
 * Correctness
 	- Incorrectness is shown with one counter-example
@@ -14,14 +14,36 @@ This repository contains my solution for some common algorithms. These algorithm
 ## Summary of Topics
 We describe the major parts of algorithms, giving specific topics covered and an indication of our general orientation towards the material. This repository is intended to touch on as many fundamental algorithms as possible.
 
-### Sorting
-Rearranging arrays in order are of fundamental importance. We consider a variety of algorithms in considerable depth, including insertion sort, selection sort, shellsort, quicksort, mergesort, and heapsort.
+## Analysis of Algorithms
+For many programs, developing a mathematical model running time reduces to the following steps:
+* Develop an input model, including a definition of the problem size.
+* Define a cost model that includes operations in the inner loop.
 
+## Sorting
+Rearranging arrays in order are of fundamental importance. We consider a variety of algorithms in considerable depth, including:
+* Insertion Sort
+* Selection Sort
+* Shellsort
+* Quicksort
+* Mergesort
+* Heapsort
+We note relationships among these methods and compare performance.
 
-## TODO
+## Searching
+Algorithms for finding specific items among large collections of items are also fundamental importance. We discuss basic and advanced methods for searching, including:
+* binary search trees
+* balanced search trees
+* and hashing
+We note relationships among these methods and compare performance.
 
-### Searching
+## Graphs
+Graphs are sets of objects and connections, possibly with weights and orientation. Graphs are useful models for a vast number of difficult and important problems, and the design of algorithms for processing graphs. We consider:
+* depth-first search
+* breadth-first search
+* connectivity problems
+* Kruskal’s algorithm
+* Prim’s algorithm
+* Dijkstra’s algorithm
+* Bellman-Ford algorithm
 
-### Graphs
-
-### Strings
+## Strings
