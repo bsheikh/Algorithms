@@ -27,23 +27,23 @@ Rearranging arrays in order are of fundamental importance. We consider a variety
 * Quicksort
 * Mergesort
 * Heapsort
+
 We note relationships among these methods and compare performance.
 
 ## Searching
 Algorithms for finding specific items among large collections of items are also fundamental importance. We discuss basic and advanced methods for searching, including:
-* binary search trees
-* balanced search trees
-* and hashing
+* Binary search trees
+* Balanced search trees
+* Hashing
+
 We note relationships among these methods and compare performance.
 
 ## Graphs
 Graphs are sets of objects and connections, possibly with weights and orientation. Graphs are useful models for a vast number of difficult and important problems, and the design of algorithms for processing graphs. We consider:
-* depth-first search
-* breadth-first search
-* connectivity problems
+* Depth-first search
+* Breadth-first search
+* Connectivity problems
 * Kruskal’s algorithm
 * Prim’s algorithm
 * Dijkstra’s algorithm
 * Bellman-Ford algorithm
-
-## Strings
